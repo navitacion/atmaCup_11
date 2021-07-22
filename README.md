@@ -142,3 +142,7 @@ only execute below
 ```commandline
 python train.py
 ```
+
+## What I couldn't do
+
+- [SimSiam](https://www.guruguru.science/competitions/17/discussions/a39d588e-aff2-4728-8323-b07f15563552/)
