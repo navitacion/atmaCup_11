@@ -15,7 +15,7 @@ https://www.guruguru.science/competitions/17/
 
 ## Result
 
-- Private Score: 
+- Private Score: 0.6934
 - Rank: 24th / 289 (TOP: 8.3%)
 
 
