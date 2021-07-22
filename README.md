@@ -16,7 +16,7 @@ https://www.guruguru.science/competitions/17/
 ## Result
 
 - Private Score: 
-- Rank: th /  (%)
+- Rank: 24th / 289 (TOP: 8.3%)
 
 
 ## Getting Started
